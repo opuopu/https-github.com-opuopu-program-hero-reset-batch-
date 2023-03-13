@@ -10,4 +10,5 @@ console.log('https://github.com/opuopu/program-hero-reset-batch-.git');
 console.log('https://github.com/opuopu/program-hero-reset-batch-.git');
 console.log('https://github.com/opuopu/program-hero-reset-batch-.git');
 console.log('https://github.com/opuopu/program-hero-reset-batch-.git');
+console.log('https://github.com/opuopu/program-hero-reset-batch-.git');
 
