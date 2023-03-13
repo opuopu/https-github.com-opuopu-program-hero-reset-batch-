@@ -6,5 +6,6 @@ const appDiv = document.getElementById('app');
 appDiv.innerHTML = `<h1>JS Starter</h1>`;
 console.log('https://github.com/opuopu/program-hero-reset-batch-.git');
 console.log('https://github.com/opuopu/program-hero-reset-batch-.git');
+console.log('https://github.com/opuopu/program-hero-reset-batch-.git');
 
 
